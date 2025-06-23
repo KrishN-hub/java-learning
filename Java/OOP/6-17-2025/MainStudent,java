@@ -1,0 +1,7 @@
+class MainStudent{
+	public static void main (String atgs[]){
+		Subject Sbj = new Student1(101, "Karanan");
+		Stj.setMarks(45,90,80);
+		Stj.Display();
+	}
+} 
